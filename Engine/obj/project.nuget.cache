@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Vztc/4oZfN8=",
+  "dgSpecHash": "Z/pOdBmE5sA=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Another\\SuperAdventure\\Engine\\Engine.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/kalzi/RiderProjects/SuperAdventure/Engine/Engine.csproj",
+  "expectedPackageFiles": [
+    "/home/kalzi/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/home/kalzi/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
