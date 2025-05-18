@@ -9,3 +9,15 @@ C:\Projects\SuperAdventure\Engine\obj\Debug\net8.0\Engine.dll
 C:\Projects\SuperAdventure\Engine\obj\Debug\net8.0\refint\Engine.dll
 C:\Projects\SuperAdventure\Engine\obj\Debug\net8.0\Engine.pdb
 C:\Projects\SuperAdventure\Engine\obj\Debug\net8.0\ref\Engine.dll
+C:\Projects\Another\SuperAdventure\Engine\bin\Debug\net8.0\Engine.deps.json
+C:\Projects\Another\SuperAdventure\Engine\bin\Debug\net8.0\Engine.dll
+C:\Projects\Another\SuperAdventure\Engine\bin\Debug\net8.0\Engine.pdb
+C:\Projects\Another\SuperAdventure\Engine\obj\Debug\net8.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Another\SuperAdventure\Engine\obj\Debug\net8.0\Engine.AssemblyInfoInputs.cache
+C:\Projects\Another\SuperAdventure\Engine\obj\Debug\net8.0\Engine.AssemblyInfo.cs
+C:\Projects\Another\SuperAdventure\Engine\obj\Debug\net8.0\Engine.csproj.CoreCompileInputs.cache
+C:\Projects\Another\SuperAdventure\Engine\obj\Debug\net8.0\Engine.sourcelink.json
+C:\Projects\Another\SuperAdventure\Engine\obj\Debug\net8.0\Engine.dll
+C:\Projects\Another\SuperAdventure\Engine\obj\Debug\net8.0\refint\Engine.dll
+C:\Projects\Another\SuperAdventure\Engine\obj\Debug\net8.0\Engine.pdb
+C:\Projects\Another\SuperAdventure\Engine\obj\Debug\net8.0\ref\Engine.dll
