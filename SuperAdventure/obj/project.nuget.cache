@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "9TNU1QerYXI=",
+  "dgSpecHash": "VNao2M5yCaU=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Another\\SuperAdventure\\SuperAdventure\\SuperAdventure.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/kalzi/RiderProjects/SuperAdventure/SuperAdventure/SuperAdventure.csproj",
+  "expectedPackageFiles": [
+    "/home/kalzi/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/home/kalzi/.nuget/packages/microsoft.windowsdesktop.app.ref/8.0.13/microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
+    "/home/kalzi/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/home/kalzi/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.13/microsoft.netcore.app.host.linux-x64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
